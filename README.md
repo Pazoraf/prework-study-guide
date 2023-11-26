@@ -5,15 +5,6 @@
 This is a webpage that I designed to store the notes that I took during the prework assignment with the edX skills bootcamp in Front-end Web Development. I was motivated to build this project by wanting to practice and apply the skills that I learnt during the assignment and to also have easy access to the notes and information that I obtained during the assignment. 
 Being a digital based course, it made sense to have the notes stored digitally rather than physically, so then I can access them easily and also see how they apply practically. Through this assignment, I learned HTML, CSS and Javascript fundamentals, and was able to apply them practically, and also see how any problems or bugs that I might run into would be solved.
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
 ## Installation
 
 N/A
